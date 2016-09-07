@@ -1,0 +1,2 @@
+C:\datos ssd\Visual Studio 2015\Projects\Fractals\Fractals\FractalsContent\obj\x86\Release\FractalsContent.contentprojResolveAssemblyReference.cache
+C:\datos ssd\Visual Studio 2015\Projects\Fractals\Fractalss\Fractals\FractalsContent\obj\x86\Release\FractalsContent.contentprojResolveAssemblyReference.cache
